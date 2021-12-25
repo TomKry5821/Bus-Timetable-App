@@ -1,0 +1,15 @@
+LINIA 13
+04:45 Rynek
+04:53 Szkutnika
+05:23 Reymonta 
+05:45 Dworzec
+07:45 Rynek 
+07:53 Szkutnika 
+08:23 Reymonta 
+08:45 Dworzec
+12:46 Rynek 
+12:56 Szkutnika 
+13:25 Reymonta 
+13:47 Dworzec 
+15:20 Rynek
+13:40 Zory

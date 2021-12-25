@@ -1,0 +1,13 @@
+LINIA 5
+04:35 Rynek
+04:43 Szkutnika
+05:13 Reymonta 
+05:55 Dworzec
+07:25 Rynek 
+07:57 Szkutnika 
+08:43 Reymonta 
+08:55 Dworzec
+12:26 Rynek 
+12:46 Szkutnika 
+13:35 Reymonta 
+13:47 Dworzec

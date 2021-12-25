@@ -1,0 +1,13 @@
+LINIA 8
+04:31 Rynek
+04:43 Szkutnika
+05:13 Reymonta 
+05:55 Dworzec
+07:29 Rynek 
+07:57 Szkutnika 
+08:43 Reymonta 
+08:55 Dworzec
+12:29 Rynek 
+12:46 Szkutnika 
+13:35 Reymonta 
+13:47 Dworzec
